@@ -23,3 +23,11 @@ public class HelloWorld {
 =======
 new code  by dev-1 without pulling the code from dev2
 
+We are updating some more data to learn about PULL
+
+PULL->FETCH + MERGE
+
+FETCH->used to check if there any changes IN GITHUB REPO(git fetch origin main)
+
+MERGE->used to get the changes from GITHU(git merge origin:main)    
+
