@@ -29,5 +29,5 @@ PULL->FETCH + MERGE
 
 FETCH->used to check if there any changes IN GITHUB REPO(git fetch origin main)
 
-MERGE->used to get the changes from GITHU(git merge origin:main)    
+MERGE->used to get the changes from GITHU(git merge origin/main)    
 
